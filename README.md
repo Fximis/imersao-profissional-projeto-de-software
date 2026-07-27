@@ -319,7 +319,7 @@ Ocorrência:
 ```mermaid
 flowchart TD
 
-    A["📝 Planning"] --> B["📋 Criar Issue no Jira"]
+    A["📝 Planning"] --> B["📋 Criar Issue"]
 
     B --> C["🌿 Criar Branch"]
 
