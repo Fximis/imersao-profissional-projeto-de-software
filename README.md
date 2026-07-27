@@ -1,10 +1,8 @@
 # imersao-profissional-projeto-de-software
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow) ![Kanban](https://img.shields.io/badge/metodologia-Kanban-blue)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow) ![Kanban](https://img.shields.io/badge/metodologia-Kanban-blue) ![GitHub](https://img.shields.io/badge/GitFlow-Sim-success) 
 
-![GitHub](https://img.shields.io/badge/GitFlow-Sim-success) ![Jira](https://img.shields.io/badge/Jira-Utilizado-0052CC)
-
-![CI](https://img.shields.io/badge/CI-Jenkins-red) ![License](https://img.shields.io/badge/license-Acadêmico-lightgrey)
+![Jira](https://img.shields.io/badge/Jira-Utilizado-0052CC) ![CI](https://img.shields.io/badge/CI-Jenkins-red) ![License](https://img.shields.io/badge/license-Acadêmico-lightgrey)
 
 # 📚 Escola de TI 2026 — Guia do Projeto
 
